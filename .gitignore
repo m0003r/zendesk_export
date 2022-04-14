@@ -2,3 +2,6 @@
 .idea
 *.iml
 config.toml
+*.json
+*.json.gz
+*.json.bz2
