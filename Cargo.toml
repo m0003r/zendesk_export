@@ -1,0 +1,13 @@
+[package]
+name = "zendesk_export"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ureq = "2.4.0"
+json = "0.12.4"
+derive_more = "0.99.17"
+toml = "0.5.8"
+base64 = "0.13.0"
